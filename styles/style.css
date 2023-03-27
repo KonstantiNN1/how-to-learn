@@ -107,32 +107,30 @@
 .table {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
   width: 1100px;
   margin: 0 auto;
   justify-content: space-between; 
 }
 
 .table__cell {  
-  width: 250px; 
+  width: 250px;
   margin: 60px auto 0;
   z-index: 1;
 }  
-
-/* */ 
 
  .section-title {
   margin: 0 auto;
   width: 60%;
   margin-bottom: 20px;
-  text-align: center; 
+  text-align: center;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
 }
 
 .section-subtitle { 
-  text-align: center; 
+  text-align: center;
   width: 60%;
   margin: 0 auto;
   line-height: 34px;
