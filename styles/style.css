@@ -113,7 +113,7 @@
   justify-content: space-between; 
 }
 
-.table__cell {  
+.table__cell {
   width: 250px;
   margin: 60px auto 0;
   z-index: 1;
@@ -129,7 +129,7 @@
   font-weight: 600;
 }
 
-.section-subtitle { 
+.section-subtitle {
   text-align: center;
   width: 60%;
   margin: 0 auto;
@@ -279,18 +279,15 @@
 
 .footer__column-heading {
   margin-bottom: 20px;
+    line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
 }
 
 .footer__social-icon {
   display: inline-block;
   width: 16px;
   height: 16px;
-}
-
-.footer__column-heading {
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: 600;
 }
 
 .footer__column-link {
