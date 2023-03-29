@@ -137,6 +137,7 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
+  position: relative;
   z-index: 1;
 }
 
@@ -147,6 +148,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  position: relative;
   z-index: 1;
 }
 
@@ -235,13 +237,11 @@
 
 .section-title_theme_dark {
   color: white;
-  width: 60%;
   padding: 90px 0 20px;
 }
 
 .section-subtitle_theme_dark {
   color: white;
-  width: 60%;
 }
 
 .table__cell_theme_dark {
@@ -302,7 +302,7 @@
 .footer__social-icon {
   width: 16px;
   height: 16px;
-  margin-top: 10px;
+  margin-right: 10px;
 }
 
 .footer__column-link {
